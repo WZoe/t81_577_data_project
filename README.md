@@ -15,7 +15,7 @@ Zoe Wang
 
 This project utilized the World Happiness Report dataset which shows the happiness score along with several other metrics among different countries between 2015 to 2019. The project mainly does some visualization and analysis based on the dataset, and fits a model to predict the happiness score given some relevent data.
 
-###Business Goals & Objectives
+### Business Goals and Objectives
 
 See [business_goals](/docs/business_goals.md)
 
@@ -23,9 +23,11 @@ See [business_goals](/docs/business_goals.md)
 
 See [dataset](/docs/dataset.md)
 
-###Environment and Dependencies
+### Environment and Dependencies
 
-sklearn
+See [requirements.txt](requirements.txt)
+
+### Usage
 
 np
 
