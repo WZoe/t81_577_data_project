@@ -13,7 +13,7 @@ Zoe Wang
 
 ### Overview
 
-
+This project utilized the World Happiness Report dataset which shows the happiness score along with several other metrics among different countries between 2015 to 2019. The project mainly does some visualization and analysis based on the dataset, and fits a model to predict the happiness score given some relevent data.
 
 ###Business Goals & Objectives
 
@@ -25,11 +25,27 @@ See [dataset](/docs/dataset.md)
 
 ###Environment and Dependencies
 
+sklearn
+
+np
+
+seaborn
+
+pandas
+
+matlab
+
 ### Usage
+
+The major work is shown in [main.ipynb](/notebooks/main.ipynb)
 
 ### References
 
 See [reference](/references/references.md)
+
+
+
+"The work I submitted represents my work and my work alone. I abode by the academic integrity policy and I am aware of the consequences associated with engaging in academic misconduct. "
 
 
 
