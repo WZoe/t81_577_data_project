@@ -29,16 +29,6 @@ See [requirements.txt](requirements.txt)
 
 ### Usage
 
-np
-
-seaborn
-
-pandas
-
-matlab
-
-### Usage
-
 The major work is shown in [main.ipynb](/notebooks/main.ipynb)
 
 ### References
