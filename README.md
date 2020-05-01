@@ -1,7 +1,37 @@
 t81_577_data_project
 ==============================
 
-Washington Univ t81-577 20 Spring data science project. Topic TBD.
+Washington Univ t81-577 20 Spring data science project. 
+
+Topic: Visualizing World Happiness Level and Prediction
+
+Zoe Wang
+
+2020/04/30
+
+## Visualizing World Happiness Level and Prediction
+
+### Overview
+
+
+
+###Business Goals & Objectives
+
+See [business_goals](/docs/business_goals.md)
+
+### Dataset
+
+See [dataset](/docs/dataset.md)
+
+###Environment and Dependencies
+
+### Usage
+
+### References
+
+See [reference](/references/references.md)
+
+
 
 Project Organization
 ------------
@@ -50,7 +80,6 @@ Project Organization
     │       └── visualize.py
     │
     └── tox.ini            <- tox file with settings for running tox; see tox.testrun.org
-
 
 --------
 
